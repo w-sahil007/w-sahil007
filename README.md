@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sahil 👋
 
-<!--
-**w-sahil007/w-sahil007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT graduate from Nepal, interested in software development and database management. I've worked on different academic projects, which gave me practical experience with programming, application development, databases and testing.
 
-Here are some ideas to get you started:
+### Technologies I've Worked With
+- Python and JavaScript
+- SQL, PostgreSQL, SQLite and MongoDB
+- Django and Android Studio
+- Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some Things I've Built
+- **PetCare:** An Android application for managing pet care activities.
+- **Elevate Workforce:** A job portal developed using Django.
+- **AI-Based Solutions:** A complete website developed as part of my Computer Systems Engineering assignment.
+- **Mets Telecom Helpdesk:** A database design and development project.
+
+I'm currently working on improving my programming skills, learning more about backend development and exploring how AI can be used in real-world applications.
+
+Always interested in learning, building things and getting better at what I do.
